@@ -1,6 +1,7 @@
 #fichier articles_eft_st
 article_eft_st_files/
-
+images/
+libs/
 
 #fichier construction pdf
 *.bib
