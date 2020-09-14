@@ -11,6 +11,6 @@ tinytex:::is_tinytex()
 
 #test ajout github
 
-#test retrait github
+
 
 #test ajout from rstudio
