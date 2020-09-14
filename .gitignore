@@ -1,3 +1,7 @@
+#fichier articles_eft_st
+article_eft_st_files/*.*
+
+
 #fichier construction pdf
 .bib
 .cls
