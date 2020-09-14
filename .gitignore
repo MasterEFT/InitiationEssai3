@@ -1,10 +1,10 @@
 #fichier articles_eft_st
-article_eft_st_files/*.*
+article_eft_st_files/
 
 
 #fichier construction pdf
-.bib
-.cls
+*.bib
+*.cls
 
 
 # History files
@@ -28,7 +28,7 @@ article_eft_st_files/*.*
 
 # RStudio files
 .Rproj.user/
-.Rproj
+*.Rproj
 
 # produced vignettes
 vignettes/*.html
